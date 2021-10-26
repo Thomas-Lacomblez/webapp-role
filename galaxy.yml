@@ -1,0 +1,18 @@
+---
+namespace: community
+name: webapp-role
+version: 1.0.0
+readme: README.md
+authors:
+  - Thomas-Lacomblez
+description: Install webapp
+license_file: COPYING
+tags:
+  - v1
+repository: https://github.com/Thomas-Lacomblez/webapp-role.git
+documentation: https://github.com/Thomas-Lacomblez/webapp-role.git
+homepage: https://github.com/Thomas-Lacomblez/webapp-role.git
+issues: https://github.com/Thomas-Lacomblez/webapp-role.git
+build_ignore:
+  - .gitignore
+ 
